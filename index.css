@@ -226,7 +226,8 @@ body {
 .btn_one:hover {
     cursor:pointer;
     color:#000099;/*change*/
-    background:#000099;/*change*/
+    background:#fff;/*change*/
+    border:3px solid #000099;/*change*/
 }
 .btn_two {
     font-size:18px;
@@ -243,6 +244,8 @@ body {
 .btn_two:hover {
     cursor:pointer;
     padding:8px 60px;
+    background:#fff;/*change*/
+    border:3px solid #000099;/*change*/
 }
 .container form input {
     width:46%;
