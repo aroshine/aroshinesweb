@@ -94,13 +94,14 @@ a.navbar-brand .fa-globe:hover
 h1.intro-text
 {
   margin:0;
-  color:#0000;
+  color:#ffff;
 }
 
 .splash .lead {
   font-size: 30px;
   margin-bottom: 1em;
-  font-family: Rockwell;
+  font-family: Century gothic,sans-serif; /* ==Instead of Rockwell==== */ 
+  color: #0d4f88;
 }
 @keyframes blink
   {
