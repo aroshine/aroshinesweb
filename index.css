@@ -225,8 +225,8 @@ body {
 }
 .btn_one:hover {
     cursor:pointer;
-    color:#000099;
-    background:#000099;
+    color:#000099;/*change*/
+    background:#000099;/*change*/
 }
 .btn_two {
     font-size:18px;
