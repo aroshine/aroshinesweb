@@ -94,8 +94,9 @@ a.navbar-brand .fa-globe:hover
 h1.intro-text
 {
   margin:0;
-  color:#fff;
+  color:#0000;
 }
+
 .splash .lead {
   font-size: 30px;
   margin-bottom: 1em;
