@@ -15,7 +15,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background:rgb(255, 50, 50);
+    background:rgb(255,215,0);/*change*/
     z-index: 999;
     display: flex;
     justify-content: center;
@@ -27,7 +27,7 @@ body {
     width:50px;
     height:50px;
     border:12px solid #fff;
-    border-bottom:12px solid rgb(255, 50, 50);
+    border-bottom:12px solid rgb(255,215,0);/*change*/
     border-radius:50%;
     margin:0;
 }
@@ -48,10 +48,10 @@ body {
     display:inline-block;
 }
 .box1 {
-    background:rgb(255, 50, 50);
+    background:rgb(255,215,0);/*change*/
 }
 .box2 {
-    background:rgb(255, 50, 50);
+    background:rgb(255,215,0);/*change*/
     margin-left:-5px;
 }
 #menu {
@@ -80,7 +80,7 @@ body {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:rgb(255, 50, 50);
+    color:rgb(255,215,0);/*change*/
     font-size:70px;
     text-decoration:underline;
 }
@@ -138,15 +138,15 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #about:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(255,215,0,0.9);/*change*/
     cursor:pointer;
 }
 #work:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(255,215,0,0.9);/*change*/
     cursor:pointer;
 }
 #contact:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(255,215,0,0.9);/*change*/
     cursor:pointer;
 }
 #middle table {
@@ -166,7 +166,7 @@ body {
 }
 .social:hover { 
     cursor: pointer;
-    color:rgb(255, 50, 50);
+    color:rgb(255,215,0);/*change*/
 }
 .container {
     width:90vw;
@@ -299,7 +299,7 @@ body {
     font-weight:bold;
 }
 #footer a {
-    color:rgb(255, 50, 50) ;
+    color:rgb(255,215,0);/*change*/
 }
 #particles-js {
     position:fixed;
@@ -314,14 +314,14 @@ body {
     background: #fff; 
 }
 ::-webkit-scrollbar-thumb {
-    background: rgb(255, 50, 50); 
+    background: rgb(255,215,0);/*change*/ 
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(255, 50, 50,0.8); 
+    background: rgba(255,215,0, 0.8);/*change*/ 
 }
 ::selection {
 	color: #fff;
-	background: rgb(255, 50, 50);
+	background: rgb(255,215,0);/*change*/
 }
 
 @media (max-width: 800px){ 
