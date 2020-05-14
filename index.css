@@ -10,9 +10,7 @@ body {
     overflow:hidden;
     font-family: 'Josefin Sans', sans-serif;
 }
-p.ex1{
-    padding-right: 100px;
-}
+
 #loading {
     width: 100vw;
     height: 100vh;
@@ -364,4 +362,7 @@ p.ex1{
     #box div {
         width:100%;
     }
+    p.ex1{
+    padding-right: 300px;
+}
 }
