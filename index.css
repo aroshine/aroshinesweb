@@ -10,8 +10,8 @@ body {
     overflow:hidden;
     font-family: 'Josefin Sans', sans-serif;
 }
-p{
-    margin-inline-end: 20px;
+p.ex1{
+    padding-right: 100px;
 }
 #loading {
     width: 100vw;
