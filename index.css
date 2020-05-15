@@ -364,7 +364,7 @@ body {
         width:100%;
     }
 
-    @media only screen and (min-width:800px) {
+    @media (min-width:800px) {
    .newspaper{
     column-count: 2;
     column-gap: 10px;
