@@ -9,7 +9,6 @@ body {
     height:100vh;
     overflow:hidden;
     font-family: 'Josefin Sans', sans-serif;
-    letter-spacing: 2px;
 }
 .newspaper{
     column-count: 2;
@@ -215,6 +214,8 @@ body {
 }
 .container p {
     font-size:21px;
+    letter-spacing: 2px;
+    line-height: 1.6;
 }
 .btn_one {
     font-size:18px;
