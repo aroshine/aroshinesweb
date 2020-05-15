@@ -10,8 +10,10 @@ body {
     overflow:hidden;
     font-family: 'Josefin Sans', sans-serif;
 }
-
-
+.newspaper{
+    column-count: 2;
+    column-gap: 10px;
+}
 #loading {
     width: 100vw;
     height: 100vh;
@@ -364,11 +366,10 @@ body {
         width:100%;
     }
 
-    @media (min-width:800px) {
-   .newspaper{
-    column-count: 2;
-    column-gap: 10px;
-   }
+  @media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
   }
+}
   
 }
