@@ -211,12 +211,12 @@ body {
 .container h1 {
     font-size:60px;
     text-decoration:underline;
-    column-span: all;
 }
 .container p {
     font-size:21px;
     letter-spacing: 2px;
     line-height: 1.6;
+    margin-top: 0;
 }
 .btn_one {
     font-size:18px;
