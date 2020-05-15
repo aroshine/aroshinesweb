@@ -293,7 +293,7 @@ body {
     outline:none;
     border-bottom:3px solid #000;/*change*/
 }
-::placeholder {
+::name {
     color:#000;/*change*/
 }
 #footer {
