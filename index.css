@@ -11,6 +11,10 @@ body {
     font-family: 'Josefin Sans', sans-serif;
 }
 
+.newspaper{
+    column-count: 2;
+}
+
 #loading {
     width: 100vw;
     height: 100vh;
