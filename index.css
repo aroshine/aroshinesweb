@@ -14,6 +14,9 @@ body {
     column-count: 2;
     column-gap: 10px;
 }
+.newspaper h2{
+    column-span: all;
+}
 #loading {
     width: 100vw;
     height: 100vh;
